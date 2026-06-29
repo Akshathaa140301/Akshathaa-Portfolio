@@ -52,9 +52,9 @@ function Hero() {
     <section id="top" className="wrap hero">
       <div className="badge">
         <span className="dot" />
-        Boston, MA · Open to AI operations &amp; product ops roles
+        Boston, MA · Open to roles across the U.S. (remote or on-site)
       </div>
-      <h1>I build the systems that make operations teams faster.</h1>
+      <h1>I build systems that help operations teams move faster.</h1>
       <p className="hero__lede">
         I'm an operations and product-ops professional who uses AI to fix the slow parts of
         a business, automating manual work, cleaning up intake and KPIs, and turning
@@ -313,7 +313,7 @@ function Contact() {
         <h2>Let's build operations that actually run.</h2>
         <p className="contact__lede">
           Open to roles in AI operations, product operations, business operations, and workflow
-          automation. The fastest way to reach me is email.
+          automation, remote or anywhere in the U.S. The fastest way to reach me is email.
         </p>
 
         <div className="contact__actions">
