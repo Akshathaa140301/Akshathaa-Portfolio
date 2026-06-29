@@ -52,7 +52,7 @@ function Hero() {
     <section id="top" className="wrap hero">
       <div className="badge">
         <span className="dot" />
-        Boston, MA · Open to roles across the U.S. (remote or on-site)
+        AI Operations Builder · Product Ops · Workflow Automation
       </div>
       <h1>I build systems that help operations teams move faster.</h1>
       <p className="hero__lede">
